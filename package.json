@@ -1,0 +1,27 @@
+{
+  "name": "lica",
+  "version": "1.0.0",
+  "description": "Lightening Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcandreappel/lica.git"
+  },
+  "keywords": [
+    "calendar",
+    "date",
+    "dom"
+  ],
+  "author": "Marc-André Appel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcandreappel/lica/issues"
+  },
+  "homepage": "https://github.com/marcandreappel/lica#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
